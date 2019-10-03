@@ -1,1 +1,1 @@
-alert("XSS") a
+alert("XSS")
